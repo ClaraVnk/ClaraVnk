@@ -1,5 +1,5 @@
-👋 Hi, I’m @ClaraVnk !
-👀 I’m interested in Science, Medicine et technology (mostly IOT and home automation)
-🩺 I work as a physician
-📫 You can reach me at contact@drvanacker.fr
-😄 Pronouns: she / her
+- 👋 Hi, I’m @ClaraVnk !
+- 👀 I’m interested in Science, Medicine et technology (mostly IOT and home automation)
+- 🩺 I work as a physician
+- 📫 You can reach me at contact@drvanacker.fr
+- 😄 Pronouns: she / her
