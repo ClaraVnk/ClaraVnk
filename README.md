@@ -9,7 +9,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 ### Skills & Tools ✨🛠️ :
 
  <table>
-  <tr border: none;>
+  <tr border: solid transparent;>
    <td align="center" width="110">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/HTML.png" width="50" height="50" alt="HTML" />
     </td>
@@ -37,7 +37,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 ### I'm currently working on 🚧 :
 
  <table>
-  <tr border: none;>
+  <tr border: solid transparent;>
    <td align="center" width="110">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/linux.png" width="50" height="50" alt="Linux" />
     </td>
@@ -50,7 +50,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 ### My hosting provider ☁️ :
 
  <table>
-  <tr border: none;>
+  <tr border: solid transparent;>
    <td align="center" width="110">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/infomaniak.png" width="50" height="50" alt="Infomaniak" />
     </td>
@@ -60,7 +60,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 ### My environment 💻 :
 
  <table>
-  <tr border: none;>
+  <tr border: solid transparent;>
    <td align="center" width="110">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/apple.png" width="50" height="50" alt="Apple" />
     </td>
@@ -73,7 +73,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 ### My companions 🛟 :
 
  <table>
-  <tr border: none;>
+  <tr border: solid transparent;>
    <td align="center" width="110">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/mistral-AI.png" width="50" height="50" alt="Mistral AI" />
     </td>
@@ -89,7 +89,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 ### My favourite games 🎮 :
 
  <table>
-  <tr border: none;>
+  <tr border: solid transparent;>
    <td align="center" width="110">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/aOe.png" width="50" height="50" alt="Age of Empire" />
     </td>
