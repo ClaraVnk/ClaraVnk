@@ -1,7 +1,5 @@
 # Clara Vanacker (alias Loutre)
 
----
-
 ### About me 👀
 
 Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
