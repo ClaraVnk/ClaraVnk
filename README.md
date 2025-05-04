@@ -13,7 +13,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homeassistant.svg" alt="Home Assistant" height="40" style="vertical-align:top; margin:4px; background:white; padding:5px; border-radius:5px">
 <div style="display:inline-block; background:white; padding:5px; border-radius:5px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/raspberrypi.svg" alt="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered-300x300.png" alt="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
 </div>
 
 ### Contact 💌
