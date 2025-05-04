@@ -104,7 +104,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### Contact 💌 :
 
-- **Email :** contact@drvanacker.fr
+- **Email :** loutre@ikmail.com
 
 ---
 
