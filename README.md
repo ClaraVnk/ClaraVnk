@@ -8,8 +8,8 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### Skills & Tools ✨🛠️ :
 
- <table>
-  <tr border: transparent;>
+ <table style="border: none;">
+  <tr>
    <td align="center" width="110">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/HTML.png" width="50" height="50" alt="HTML" />
     </td>
