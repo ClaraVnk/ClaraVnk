@@ -1,16 +1,106 @@
 # Clara Vnk (alias Loutre)
 
-### About me 👀 :
+## About me 👀 
 
 Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
+## Tech stuff 🪄
+
 ### Skills & Tools ✨🛠️ :
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="Wordpress" height="80" style="vertical-align:top; margin:4px"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="80" style="vertical-align:top; margin:4px"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_homeassistant_icon_130543.png" alt="Home Assistant" height="80" style="vertical-align:top; margin:4px">  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="YAML" height="80" style="vertical-align:top; margin:4px"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" height="80" style="vertical-align:top; margin:4px"> 
+ <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <img src="https://github.com/ClaraVnk/images/HTML.png" width="48" height="48" alt="HTML" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/yaml.png" width="48" height="48" alt="YAML" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/HA.png" width="48" height="48" alt="Home Assistant" />
+    </td>
+        <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/github.png" width="48" height="48" alt="Github" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/zotero.png" width="48" height="48" alt="Zotero" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/procreate.png" width="48" height="48" alt="Procreate" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/photoshop.png" width="48" height="48" alt="Photoshop" />
+    </td>
+  </tr>
+</table>
 
 ### I'm currently working on 🚧 :
 
-<img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered-300x300.png" alt="Raspberry Pi" height="80" style="vertical-align:top; margin:4px">
+ <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <img src="https://github.com/ClaraVnk/images/linux.png" width="48" height="48" alt="Linux" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/rasp.png" width="48" height="48" alt="Raspberry" />
+    </td>
+  </tr>
+</table>
+
+### My hosting provider ☁️ :
+
+ <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <img src="https://github.com/ClaraVnk/images/infomaniak.png" width="48" height="48" alt="Infomaniak" />
+    </td>
+  </tr>
+</table>
+
+### My environment 💻 :
+
+ <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <img src="https://github.com/ClaraVnk/images/apple.png" width="48" height="48" alt="Apple" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/ubuntu.png" width="48" height="48" alt="Ubuntu" />
+    </td>
+  </tr>
+</table>
+
+### My companions 🛟 :
+
+ <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <img src="https://github.com/ClaraVnk/images/mistral-AI.png" width="48" height="48" alt="Mistral AI" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/nabaztag.png" width="48" height="48" alt="Nabaztag" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/sharpei.png" width="48" height="48" alt="Sharpei" />
+    </td>
+  </tr>
+</table>
+
+### My favourite games 🎮 :
+
+ <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <img src="https://github.com/ClaraVnk/images/aOe.png" width="48" height="48" alt="Age of Empire" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/portal.png" width="48" height="48" alt="Portal" />
+    </td>
+    <td align="center" width="110">
+        <img src="https://github.com/ClaraVnk/images/stardew-valley.png" width="48" height="48" alt="Stardew Valley" />
+    </td>
+  </tr>
+</table>
 
 ### Contact 💌 :
 
