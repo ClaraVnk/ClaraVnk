@@ -58,8 +58,8 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### My hosting provider ☁️ :
 
- <table>
-  <tr border: solid transparent;>
+<table align="center">
+  <tr>
    <td align="center">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/infomaniak.png" width="60" height="60" alt="Infomaniak" />
       <br>Infomaniak
