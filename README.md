@@ -8,7 +8,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### Skills & Tools ✨🛠️ :
 
- <table style="border: none;">
+ <table align="center">
   <tr>
    <td align="center">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/HTML.png" width="60" height="60" alt="HTML" />
@@ -43,8 +43,8 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### I'm currently working on 🚧 :
 
- <table>
-  <tr border: solid transparent;>
+<table align="center">
+  <tr>
    <td align="center">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/linux.png" width="60" height="60" alt="Linux" />
       <br>Linux
@@ -69,8 +69,8 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### My environment 💻 :
 
- <table>
-  <tr border: solid transparent;>
+<table align="center">
+  <tr>
    <td align="center">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/apple.png" width="60" height="60" alt="Apple" />
       <br>Apple
@@ -84,8 +84,8 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### My companions 🛟 :
 
- <table>
-  <tr border: solid transparent;>
+<table align="center">
+  <tr>
    <td align="center">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/mistral-AI.png" width="60" height="60" alt="Mistral AI" />
       <br>Mistral AI
@@ -103,8 +103,8 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### My favourite games 🎮 :
 
- <table>
-  <tr border: solid transparent;>
+<table align="center">
+  <tr>
    <td align="center">
       <img src="https://github.com/ClaraVnk/ClaraVnk/blob/main/images/aOe.png" width="60" height="60" alt="Age of Empire" />
       <br>Age of Empire
