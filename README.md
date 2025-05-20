@@ -22,7 +22,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### My hosting provider ☁️ :
 
-[![infomaniak](https://img.shields.io/badge/infomaniak-0098ff?style=for-the-badge&logoColor=white)](https://www.infomaniak.com/)
+![infomaniak](https://img.shields.io/badge/infomaniak-0098FF?style=for-the-badge&logo=infomaniak&logoColor=white)
 
 ### My environment 💻 :
 
