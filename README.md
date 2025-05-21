@@ -46,3 +46,4 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claravnk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claravnk)](https://github.com/anuraghazra/github-readme-stats)
