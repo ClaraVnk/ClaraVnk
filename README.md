@@ -4,6 +4,8 @@
 
 Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
+![⭐ Github](https://img.shields.io/github/stars/ClaraVnk?label=%E2%AD%90%20Github&style=for-the-badge)
+
 ## Tech stuff 🪄
 
 ### Basic skills ✨ :
@@ -26,7 +28,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### My environment 💻 :
 
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### My companions 🛟 :
 
