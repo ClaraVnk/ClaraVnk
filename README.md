@@ -1,4 +1,4 @@
-# Clara Vnk (alias Loutre)
+# Clara Vnk (aka Loutre)
 
 ## About me 👀 
 
@@ -44,6 +44,5 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 - ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  : 232695311
 
 ---
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claravnk&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claravnk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claravnk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
