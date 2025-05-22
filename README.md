@@ -6,6 +6,8 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ![⭐ Github](https://img.shields.io/github/stars/ClaraVnk?label=%E2%AD%90%20Github&style=for-the-badge)
 
+![Orson Welles GIF](https://media.tenor.com/images/8d8e67bb4e5194a3b1b4e089e65caa6f/tenor.gif)
+
 ## Tech stuff 🪄
 
 ### Basic skills ✨ :
