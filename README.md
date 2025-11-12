@@ -34,7 +34,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### My companions 🛟 :
 
-[![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?style=for-the-badge&labelColor=FA520F&color=FA520F)](https://mistral.ai/) [![Nabaztag](https://img.shields.io/badge/Nabaztag-6A1B9A?style=for-the-badge&labelColor=6A1B9A)](https://www.nabaztag.com/) [![🐶 Shiva](https://img.shields.io/badge/🐶Shiva-8B5C2E?style=for-the-badge&labelColor=8B5C2E&color=8B5C2E&logoColor=FFFFFF)](https://fr.wikipedia.org/wiki/Shar_pei)
+[![Nabaztag](https://img.shields.io/badge/Nabaztag-6A1B9A?style=for-the-badge&labelColor=6A1B9A)](https://www.nabaztag.com/) [![🐶 Shiva](https://img.shields.io/badge/🐶Shiva-8B5C2E?style=for-the-badge&labelColor=8B5C2E&color=8B5C2E&logoColor=FFFFFF)](https://fr.wikipedia.org/wiki/Shar_pei)
 
 ### My favourite games 🎮 :
 
