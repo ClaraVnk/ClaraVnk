@@ -12,7 +12,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### Basic skills ✨ :
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Tools 🛠️ :
 
@@ -20,7 +20,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 
 ### I'm currently working on 🚧 :
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-FF6F4D?style=for-the-badge&logoColor=white)
 
 ### My hosting provider ☁️ :
 
@@ -41,7 +41,7 @@ Hi ! I'm Loutre, a french physician passionate about home automation et IoT.
 ### Now playing IRL 🎲 :
 
 - 🐰 Reviving a 2005 Wi-Fi rabbit (Nabaztag) one ear-twitch at a time
-- 🦴 Teaching LLMs to be useful via Home Assistant — Shiva isn't impressed
+- 🤖 Wiring LLM APIs into Home Assistant, web apps and [myeline.io](https://myeline.io) — Shiva isn't impressed
 - 🩺 Writing a thesis ([transidenticlic.com](https://transidenticlic.com)) while debugging Hugo at 2am
 - ☁️ Helping run [StackOps](https://stackops.ch) because clouds need adults sometimes
 
